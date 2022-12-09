@@ -1,0 +1,6 @@
+[submodule "IoT_CoAP_Client"]
+	path = IoT_CoAP_Client
+	url = https://github.com/phil2988/IoT_CoAP_Client.git
+[submodule "IoT_CoAP_Server"]
+	path = IoT_CoAP_Server
+	url = https://github.com/mowinckel107/IoT_CoAP_Server.git
